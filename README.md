@@ -1,0 +1,1 @@
+# kadai02-02-pillow
